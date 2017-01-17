@@ -1,3 +1,3 @@
 # SDN-Security-Confidence-Assay
 
-This repository contains source code and documents for SDN projects that evaluate and assay network security northbound applications.  Southbound applications and protocol implementations are contained in a separate repository.
+SDN projects that aspire to establish a security confidence level in a specific network segment or flow route, before, during and after transferring sensitive data are located in this organization.  These projects are usually SDN controller agnostic northbound applications or resource gathering southbound applications.  
